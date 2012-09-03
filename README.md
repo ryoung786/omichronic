@@ -31,9 +31,9 @@ Seeding tiebreakers (in order)
 
 Payout Structure
 ==
-* $20 entry fee
- * 1st place:   $120
- * 2nd place:    $20
+* $50 entry fee
+ * 1st place:   $550
+ * 2nd place:    $50
  * Everyone else: $0
 
  
