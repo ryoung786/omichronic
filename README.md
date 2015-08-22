@@ -7,6 +7,7 @@ Keepers
 * Teams may keep a player for 5 * (number of years they've been on your roster) + last year's auction value
 * Teams may keep 0, 1, or 2 players
 * Teams have until exactly 1 hour before the auction to set their keepers.  Failure to do so means you forfeit your keepers.
+* A player who was drafted, dropped, and picked up by another team has a "last year auction value" of $0, and thus may be kept for $5.
 
 Trades
 ============
